@@ -1,0 +1,51 @@
+/* Your styles should be mobile-first and responsive */
+.mainPage{
+  color: rgb(33, 11, 235);
+  font-size: 15px;
+  font-family: monospace;
+  border: 50px solid red;
+  margin: auto;
+  padding: 25px 25px 25px;
+  width: 50%;
+  
+  
+}
+.mainPage, .question{
+  color:green;
+  text-align: center;
+
+}
+h1{
+  text-align: center;
+  font-size: 40px;
+  font-family: monospace;
+  
+}
+h2{
+  color: black;
+  font-size: 25;
+  font-family: monospace;
+  text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/** 
+  * If you are unclear on how to utilize a mobile-first, responsive technique to write your CSS, here is an example: 
+  *
+  * https://github.com/andreacardybailey/responsive_example/blob/master/styles/responsive-base.css 
+  *
+*/
